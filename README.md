@@ -10,7 +10,8 @@
 
 ### About Me
 
-I'm Avinash, a programmer who loves turning complex problems into simple, beautiful, and intuitive code
+I'm Avinash, a programmer who loves turning complex problems into simple, beautiful, and intuitive code.
+
 
 ### Tech Stack
 
